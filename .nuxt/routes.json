@@ -1,0 +1,98 @@
+[
+  {
+    "name": "acceptable-use-policy",
+    "path": "/acceptable-use-policy",
+    "component": "/Users/claricon/Documents/CLARICON/Ops/cirql/Build/cirql/pages/acceptable-use-policy/index.vue",
+    "chunkName": "pages/acceptable-use-policy/index"
+  },
+  {
+    "name": "appsumo",
+    "path": "/appsumo",
+    "component": "/Users/claricon/Documents/CLARICON/Ops/cirql/Build/cirql/pages/appsumo/index.vue",
+    "chunkName": "pages/appsumo/index"
+  },
+  {
+    "name": "booked",
+    "path": "/booked",
+    "component": "/Users/claricon/Documents/CLARICON/Ops/cirql/Build/cirql/pages/booked/index.vue",
+    "chunkName": "pages/booked/index"
+  },
+  {
+    "name": "contact-us",
+    "path": "/contact-us",
+    "component": "/Users/claricon/Documents/CLARICON/Ops/cirql/Build/cirql/pages/contact-us/index.vue",
+    "chunkName": "pages/contact-us/index"
+  },
+  {
+    "name": "cookie-policy",
+    "path": "/cookie-policy",
+    "component": "/Users/claricon/Documents/CLARICON/Ops/cirql/Build/cirql/pages/cookie-policy/index.vue",
+    "chunkName": "pages/cookie-policy/index"
+  },
+  {
+    "name": "customer-support",
+    "path": "/customer-support",
+    "component": "/Users/claricon/Documents/CLARICON/Ops/cirql/Build/cirql/pages/customer-support/index.vue",
+    "chunkName": "pages/customer-support/index"
+  },
+  {
+    "name": "easy",
+    "path": "/easy",
+    "component": "/Users/claricon/Documents/CLARICON/Ops/cirql/Build/cirql/pages/easy/index.vue",
+    "chunkName": "pages/easy/index"
+  },
+  {
+    "name": "hosting-guide",
+    "path": "/hosting-guide",
+    "component": "/Users/claricon/Documents/CLARICON/Ops/cirql/Build/cirql/pages/hosting-guide/index.vue",
+    "chunkName": "pages/hosting-guide/index"
+  },
+  {
+    "name": "next-steps",
+    "path": "/next-steps",
+    "component": "/Users/claricon/Documents/CLARICON/Ops/cirql/Build/cirql/pages/next-steps/index.vue",
+    "chunkName": "pages/next-steps/index"
+  },
+  {
+    "name": "privacy-policy",
+    "path": "/privacy-policy",
+    "component": "/Users/claricon/Documents/CLARICON/Ops/cirql/Build/cirql/pages/privacy-policy/index.vue",
+    "chunkName": "pages/privacy-policy/index"
+  },
+  {
+    "name": "success",
+    "path": "/success",
+    "component": "/Users/claricon/Documents/CLARICON/Ops/cirql/Build/cirql/pages/success/index.vue",
+    "chunkName": "pages/success/index"
+  },
+  {
+    "name": "terms-and-conditions",
+    "path": "/terms-and-conditions",
+    "component": "/Users/claricon/Documents/CLARICON/Ops/cirql/Build/cirql/pages/terms-and-conditions/index.vue",
+    "chunkName": "pages/terms-and-conditions/index"
+  },
+  {
+    "name": "terms-of-service",
+    "path": "/terms-of-service",
+    "component": "/Users/claricon/Documents/CLARICON/Ops/cirql/Build/cirql/pages/terms-of-service/index.vue",
+    "chunkName": "pages/terms-of-service/index"
+  },
+  {
+    "name": "thank-you",
+    "path": "/thank-you",
+    "component": "/Users/claricon/Documents/CLARICON/Ops/cirql/Build/cirql/pages/thank-you/index.vue",
+    "chunkName": "pages/thank-you/index"
+  },
+  {
+    "name": "training",
+    "path": "/training",
+    "component": "/Users/claricon/Documents/CLARICON/Ops/cirql/Build/cirql/pages/training/index.vue",
+    "chunkName": "pages/training/index"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/claricon/Documents/CLARICON/Ops/cirql/Build/cirql/pages/index.vue",
+    "chunkName": "pages/index"
+  }
+]
