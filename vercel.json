@@ -1,3 +1,5 @@
 {
-  "outputDirectory": "."
+  "framework": "nuxtjs",
+  "buildCommand": "npm run build",
+  "outputDirectory": ".nuxt"
 }
